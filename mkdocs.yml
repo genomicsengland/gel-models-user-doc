@@ -1,0 +1,12 @@
+site_name: GelModels User Guide
+pages:
+  - GelModels: 'index.md'
+  - Summary of Findings: 'summary-finding/summary-finding.md'
+  - Variants:
+    - variants/small-variants.md
+    - variants/short-tandem-repeat-variants.md
+
+markdown_extensions:
+  - markdown.extensions.admonition
+
+theme: readthedocs
